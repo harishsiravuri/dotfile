@@ -1,0 +1,7 @@
+XTerm*renderFont:	true
+XTerm*faceName:	Noto Mono
+XTerm*faceSize:	10
+
+UXTerm*renderFont:	true
+UXTerm*faceName:	Noto Mono
+UXTerm*faceSize:	10
